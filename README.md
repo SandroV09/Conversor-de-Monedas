@@ -13,7 +13,7 @@ Este proyecto es un conversor de monedas desarrollado en Java. Utiliza la librer
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-monedas.git
+   git clone https://github.com/SandroV09/conversor-de-monedas.git
    cd conversor-de-monedas
 Abrir el proyecto en IntelliJ IDEA:
 
