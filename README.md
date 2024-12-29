@@ -92,6 +92,7 @@ public class MenuPrincipal {
 }
 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que desees realizar.
+![Uploading image.png…]()
 
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
