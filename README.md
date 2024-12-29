@@ -1,6 +1,6 @@
 # Conversor de Monedas
 
-Este proyecto es un conversor de monedas desarrollado en Java. Utiliza la librería Gson para la conversión de datos JSON a objetos y viceversa, y la API ExchangeRate para obtener los tipos de cambio actuales.
+Este proyecto es un conversor de monedas desarrollado en Java, le agregué la moneda nuevo sol, que es de mi pais Perú, asi como yo tu tambien puedes agregar tu conversión favorita. Utiliza la librería Gson para la conversión de datos JSON a objetos y viceversa, y la API ExchangeRate para obtener los tipos de cambio actuales.
 
 ## Requisitos
 
@@ -92,7 +92,6 @@ public class MenuPrincipal {
 }
 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que desees realizar.
-![Uploading image.png…]()
 
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
